@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prefilterbuy.com/sitemap.xml
